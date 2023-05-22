@@ -1,23 +1,21 @@
+
 import React from 'react';
 import './App.css';
+// import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+// import HomePage from './pages/HomePage';
+// // import PortfolioContainer2 from './pages/PortfolioContainer2';
 import Portfolio from './pages/dashBoard/components/portfolio';
-import Project from './pages/dashBoard/components/Project';
-import Skills from './pages/dashBoard/components/skills';
-import About from './pages/dashBoard/components/about';
-import Me from './pages/dashBoard/components/me';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
 function App() {
   return (
     <div className="App">
-      <Router>
+      {/* <Router>
         <Routes>
-          <Route path="/" element={<Portfolio />} />
-          <Route path="/project" element={<Project />} />
-          <Route path="/Skills" element={<Skills/>} />
-          <Route path="/About" element={<About/>} />
-          <Route path="/Contact" element={<Me/>} />
+        <Route path="/" exact component={HomePage} />
+        <Route path="/portfolio-container2" component={PortfolioContainer2} />
         </Routes>
-      </Router>
+      </Router> */}
+      <Portfolio />
     </div>
   );
 }

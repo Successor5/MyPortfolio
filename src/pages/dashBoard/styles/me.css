@@ -1,0 +1,155 @@
+/*.contact-body{
+    background-color: black;
+    color: wheat;
+    height: 100vh;
+    border:2pt solid black
+}*/
+.register-container{
+    background-color: rgb(3, 1, 1);
+    height: 100vh;
+    border: solid black 2pt;
+    color: white;
+    text-align: left;
+}
+.meeee{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 3cm;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size:12px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+      
+      
+}
+.input-line {
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    outline: none;
+    border-top: none;
+    color: white;
+    width: 7cm;
+
+  }
+  .register-form2{
+    margin-top: 1cm;
+  }
+  .input-line2{
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    outline: none;
+    border-top: none;
+    color: white;
+    width: 7cm;
+
+  }
+  .register-form3{
+    margin-top: 1cm;
+    margin-right: 1cm;
+
+  }
+  .input-line3{
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    outline: none;
+    border-top: none;
+    color: white;
+    width: 7cm;
+
+  }
+  .register-form4{
+    margin-top: 1cm;
+  }
+  .input-line4{
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    outline: none;
+    border-top: none;
+    color: white;
+    width: cm;
+  }
+
+  .register-form5{
+    margin-top: 1cm;
+  }
+  .input-line5{
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: black;
+    outline: none;
+    border-top: none;
+    color: white;
+  }
+  .register-form6{
+    margin-top: 1cm;
+  }
+  .input-line6{
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: black;
+    outline: none;
+    border-top: none;
+    color: white;
+    width: 3cm;
+  }
+  .MYFORM{
+    height: 75vh;
+    margin-left: 2cm;
+    width: 15cm;
+  }
+  .secound{
+    margin-left: 18cm;
+    margin-bottom: -14cm;
+    height: 75vh;
+    
+  }
+  .me{
+    border: solid 2pt gray;
+    height: 3cm;
+    width: 5cm;
+    text-align: center
+    ;
+  }
+  .submit-btn {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: solid 2pt white;
+    width: 4cm;
+    height: 1cm;
+    border-radius: 60px;
+  }
+  
+  .cancel-btn {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: solid 2pt white;
+    margin-left: 1cm;
+    width: 4cm;
+    height: 1cm;
+    border-radius: 60px;
+    
+  }
+  .input-lineu{
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    outline: none;
+    border-top: none;
+    color: white;
+    width: 3cm;
+  }
+  .uss{
+    margin-bottom: 1cm;
+  }

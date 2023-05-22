@@ -9,7 +9,7 @@
 }
 
 .overlay{
-  background-color: rgba(0, 0, 0, 0.808);
+  background-color: rgba(0, 0, 0, 0.797);
 }
 .port{
   height: 18cm;
@@ -28,11 +28,11 @@ font-size:large;
 }
 
 .portfolio-container2{
-  margin-top: 2.2cm;
+  margin-top: 3.3cm;
   height: 110vh;
   background-color: black;
-  width: 34.1cm;
-  border: solid 2pt black;
+  /* border: solid 2pt black; */
+  width: 186.5vh;
   display: flex;
   }
 .home-button {
@@ -84,7 +84,7 @@ font-size:large;
 .portfolio-container3{
   background-color: black;
   height: 100vh;
-  width: 186vh;
+  width: 185.7vh;
   border: solid 2pt black;
 
 }
@@ -102,7 +102,7 @@ font-size:large;
   margin-top: 2cm;
   margin-left: 2cm;
   border-radius: 1.3cm;
-  transition: transform 0.5s, background-color 0.5s; 
+  transition: transform 0.5s, background-color 0.5s;
 
 
 }
@@ -119,7 +119,7 @@ font-size:large;
   margin-top: 5%;
   margin-left: 2cm;
   border-radius: 1.3cm;
-  transition: transform 0.5s, background-color 0.5s; 
+  transition: transform 0.5s, background-color 0.5s;
 
 
 }
@@ -136,7 +136,7 @@ font-size:large;
   margin-top: 5%;
   margin-left: 2cm;
   border-radius: 1.3cm;
-  transition: transform 0.5s, background-color 0.5s; 
+  transition: transform 0.5s, background-color 0.5s;
 
 
 }
@@ -152,7 +152,99 @@ font-size:large;
 .head3{
   margin-top: 2cm;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+}z
 .world{
   height: -10cm;
+}
+.portfolio-container4{
+  background-color: black;
+  border: solid 2pt black;
+  height: 100vh;
+  width: 34.1cm;
+  justify-content: space-around;
+  overflow: hidden;
+  border: solid 2pt black;
+
+  }
+.clock{
+margin-left: 0.5cm;
+height: 6cm;
+width: 8cm;
+border-radius: 1cm;
+margin-top: 1cm;
+}
+
+/* .clockL:hover{
+  background-color: blue;
+} */
+.clockText{
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.loginText{
+  font-family: 'Times New Roman', Times, serif;
+}
+.login{
+margin-left: 1cm;
+height: 6cm;
+width: 8cm;
+margin-top: 2cm;
+border: solid 2pt white;
+border-radius: 1cm;
+}
+.tracker{
+height: 6cm;
+width: 8cm;
+margin-top: 2cm;
+border-radius: 1cm;
+}
+.trackerText{
+  font-family: 'Times New Roman', Times, serif;
+}
+.button{
+  color: wheat;
+  margin-left: 1cm;
+  height: 2cm;
+  width: 6cm;
+  background-color: black;
+  font-size: x-large;
+  border: solid 2pt rgb(244, 6, 6);
+  margin-top: 1.2cm;
+  border-radius: 0.4cm;
+}
+.flex{
+  display: flex;
+  height: 10cm;
+  margin-top: 1.5cm;
+  margin-right: 16cm;
+  display: flex;
+  width:170vh;
+  margin-left: 2cm;
+  justify-content: space-around;
+}
+.downHead{
+  font-family:'Times New Roman', Times, serif;
+  margin-right: 25cm;
+}
+.portfolio-container5{
+  background-color: black;
+  height: 100vh;
+  width: 185.5vh;
+  border: solid 2pt black;
+}
+.left{
+  margin-right: 25cm;
+  margin-top: 6cm;
+}
+.w{
+  font-size:1.5cm;
+}
+.call{
+  margin-right: 2cm;
+}
+.last{
+  background-color: rgba(128, 128, 128, 0.306);
+  height: 1.7cm;
+  width: 185.5vh;
+  border: solid 2pt  rgba(128, 128, 128, 0.377);
 }
