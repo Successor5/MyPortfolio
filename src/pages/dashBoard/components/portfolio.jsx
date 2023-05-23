@@ -4,6 +4,7 @@ import pic from '../../../MyAsset/image/Cohort 14 (6).png';
 import clock from '../../../MyAsset/image/Screenshot 2023-05-18 160522.png';
 import login from '../../../MyAsset/image/Screenshot 2023-05-11 120853.png';
 import tracker from  '../../../MyAsset/image/Screenshot 2023-04-28 115833.png';
+import { ReactComponent as git} from '../../../MyAsset/git.svg';
 
 function Portfolio() {
 
@@ -156,6 +157,8 @@ scrollToBottom2()
             <h1 className='w'>Contact Me</h1>
             <p>🎯  debby71711@gmail.com</p>
             <p className='call'>☎  +2348108926927</p>
+            <git className="svg-icon" />
+
             </div>
             </div>
             <div className='last'>
